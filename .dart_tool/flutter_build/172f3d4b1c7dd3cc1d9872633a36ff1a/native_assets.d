@@ -1,0 +1,1 @@
+ C:\\Users\\usara\\Desktop\\MedAI\\.dart_tool\\flutter_build\\172f3d4b1c7dd3cc1d9872633a36ff1a\\native_assets.yaml: 
