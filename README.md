@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-Flutter - 3.7.8
+Flutter - 3.19.5
+Dart SDK - 3.3.3
 
 This project is a starting point for a Flutter application.
 
