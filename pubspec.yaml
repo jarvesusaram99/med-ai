@@ -11,6 +11,7 @@ environment:
 dependencies:
   animated_segmented_tab_control: ^1.0.1
   cupertino_icons: ^1.0.2
+  file_picker: ^8.0.5
   flutter:
     sdk: flutter
   flutter_launcher_icons: ^0.13.1
@@ -25,6 +26,7 @@ dependencies:
   intl: ^0.18.1
   loading_animation_widget: ^1.2.0+4
   lottie: ^2.3.2
+  read_pdf_text: ^0.2.1
   speech_to_text: ^6.1.1
 
   web_socket_channel: ^2.4.0
